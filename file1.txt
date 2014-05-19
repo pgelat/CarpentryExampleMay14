@@ -1,1 +1,4 @@
 Transcostal HIFU
+
+256 element array
+Spherical focusing
