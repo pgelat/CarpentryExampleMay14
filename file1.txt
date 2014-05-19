@@ -9,3 +9,5 @@ This is a further test #2.
 Changes.
 More changes.
 
+This is a change made by Bozka.
+
