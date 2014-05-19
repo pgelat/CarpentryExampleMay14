@@ -2,6 +2,10 @@ Ribs 9-12
 Idealised ribs
 Worst case ribs
 Average case ribs
+<<<<<<< HEAD
 Best case ribs
 Alien ribs
 Porcine ribs
+=======
+Best case ribs
+>>>>>>> parent of e6626fc... Add alien ribs
