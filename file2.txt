@@ -1,2 +1,5 @@
 Ribs 9-12
 Idealised ribs
+Worst case ribs
+Average case ribs
+Best case ribs
